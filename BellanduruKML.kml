@@ -55,14 +55,14 @@
 		<name>Point Features</name>
 		<visibility>0</visibility>
 		<description>Point Features</description>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<visibility>0</visibility>
 			<description><![CDATA[BELLANDOR<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<Point>
 				<coordinates>77.6782584219,12.9318201359,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>BL02</name>
 			<visibility>0</visibility>
 			<description><![CDATA[FEATURE_LABEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -70,14 +70,14 @@
 				<coordinates>77.6782584219,12.9318201359,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<visibility>0</visibility>
 			<description><![CDATA[BELLANDOR<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<Point>
 				<coordinates>77.680043099,12.9300335448,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>BL03</name>
 			<visibility>0</visibility>
 			<description><![CDATA[FEATURE_LABEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -85,14 +85,14 @@
 				<coordinates>77.680043099,12.9300335448,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<visibility>0</visibility>
 			<description><![CDATA[BELLANDOR<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<Point>
 				<coordinates>77.66999692749999,12.930116087,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>BL04</name>
 			<visibility>0</visibility>
 			<description><![CDATA[FEATURE_LABEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -100,14 +100,14 @@
 				<coordinates>77.66999692749999,12.930116087,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<visibility>0</visibility>
 			<description><![CDATA[BELLANDOR<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<Point>
 				<coordinates>77.6724361972,12.9229241783,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>BL05</name>
 			<visibility>0</visibility>
 			<description><![CDATA[FEATURE_LABEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -115,14 +115,14 @@
 				<coordinates>77.6724361972,12.9229241783,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<visibility>0</visibility>
 			<description><![CDATA[BELLANDOR<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<Point>
 				<coordinates>77.6782052919,12.9205825555,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>BL06</name>
 			<visibility>0</visibility>
 			<description><![CDATA[FEATURE_LABEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -130,7 +130,7 @@
 				<coordinates>77.6782052919,12.9205825555,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>80</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -138,7 +138,7 @@
 				<coordinates>77.6715345308,12.9236618326,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>68</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -146,7 +146,7 @@
 				<coordinates>77.67784248930001,12.9214877688,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>65</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -154,7 +154,7 @@
 				<coordinates>77.68026696360001,12.9190719083,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>94</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -162,7 +162,7 @@
 				<coordinates>77.6739983033,12.9289667835,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>76</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -170,7 +170,7 @@
 				<coordinates>77.67487205419999,12.9231573874,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>31</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -178,7 +178,7 @@
 				<coordinates>77.6773103371,12.9294738572,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>64</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -186,7 +186,7 @@
 				<coordinates>77.6818451823,12.9209248549,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>61</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -194,7 +194,7 @@
 				<coordinates>77.679810856,12.9222649567,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>67</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -202,7 +202,7 @@
 				<coordinates>77.6791659443,12.9211418234,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>66</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -210,7 +210,7 @@
 				<coordinates>77.6805331514,12.9208586382,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>62</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -218,7 +218,7 @@
 				<coordinates>77.6803326383,12.9218345015,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>63</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -226,7 +226,7 @@
 				<coordinates>77.68099454750001,12.9217772979,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>9</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -234,7 +234,7 @@
 				<coordinates>77.6800006252,12.9314021934,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>8</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -242,7 +242,7 @@
 				<coordinates>77.6787096625,12.9314602236,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>10</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -250,7 +250,7 @@
 				<coordinates>77.68098653369999,12.9307514727,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>11</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -258,7 +258,7 @@
 				<coordinates>77.6802793631,12.9302812246,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>19</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -266,7 +266,7 @@
 				<coordinates>77.6814904498,12.9289306988,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>18</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -274,7 +274,7 @@
 				<coordinates>77.6805777316,12.9288756744,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>17</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -282,7 +282,7 @@
 				<coordinates>77.6802820683,12.9276683279,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>16</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -290,7 +290,7 @@
 				<coordinates>77.6796544525,12.928311916,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>21</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -298,7 +298,7 @@
 				<coordinates>77.6810332595,12.9270041261,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>20</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -306,7 +306,7 @@
 				<coordinates>77.68112802900001,12.9278218418,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>25</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -314,7 +314,7 @@
 				<coordinates>77.6794088124,12.9269860775,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>24</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -322,7 +322,7 @@
 				<coordinates>77.6800165592,12.9269254874,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>22</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -330,7 +330,7 @@
 				<coordinates>77.68139825359999,12.9265229368,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>44</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -338,7 +338,7 @@
 				<coordinates>77.6814077974,12.9258258905,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>45</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -346,7 +346,7 @@
 				<coordinates>77.68188266600001,12.9252305241,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>46</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -354,7 +354,7 @@
 				<coordinates>77.68140218720001,12.9248066754,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>49</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -362,7 +362,7 @@
 				<coordinates>77.6814484459,12.9244301025,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>50</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -370,7 +370,7 @@
 				<coordinates>77.68116259270001,12.9242778327,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>40</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -378,7 +378,7 @@
 				<coordinates>77.6791193607,12.9240609483,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>39</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -386,7 +386,7 @@
 				<coordinates>77.67862732979999,12.9243866171,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>36</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -394,7 +394,7 @@
 				<coordinates>77.6789309023,12.9256524622,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>35</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -402,7 +402,7 @@
 				<coordinates>77.6787980615,12.926189108,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>42</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -410,7 +410,7 @@
 				<coordinates>77.6790814757,12.9251885735,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>37</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -418,7 +418,7 @@
 				<coordinates>77.6784756397,12.9254820036,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>38</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -426,7 +426,7 @@
 				<coordinates>77.6784560024,12.9248919591,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>41</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -434,7 +434,7 @@
 				<coordinates>77.6791319782,12.9247370905,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>23</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -442,7 +442,7 @@
 				<coordinates>77.6798210484,12.9262514951,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>43</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -450,7 +450,7 @@
 				<coordinates>77.6799859799,12.925656331,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>47</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -458,7 +458,7 @@
 				<coordinates>77.6801016184,12.9249206175,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>48</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -466,7 +466,7 @@
 				<coordinates>77.6799219354,12.9245325356,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>51</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -474,7 +474,7 @@
 				<coordinates>77.6814149458,12.9240330035,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>52</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -482,7 +482,7 @@
 				<coordinates>77.679899212,12.9241404259,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>55</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -490,7 +490,7 @@
 				<coordinates>77.6814002433,12.9236390512,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>57</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -498,7 +498,7 @@
 				<coordinates>77.67979128899999,12.9232266747,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>58</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -506,7 +506,7 @@
 				<coordinates>77.6797904531,12.9228483253,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>54</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -514,7 +514,7 @@
 				<coordinates>77.6800265328,12.923664123,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>53</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -522,7 +522,7 @@
 				<coordinates>77.6797523553,12.9238964398,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>59</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -530,7 +530,7 @@
 				<coordinates>77.6813764062,12.9227236092,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>56</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -538,7 +538,7 @@
 				<coordinates>77.6814197705,12.92313526,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>70</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -546,7 +546,7 @@
 				<coordinates>77.6786887793,12.922912398,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>71</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -554,7 +554,7 @@
 				<coordinates>77.6787716258,12.9234150498,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>72</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -562,7 +562,7 @@
 				<coordinates>77.6776249361,12.9246293541,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>74</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -570,7 +570,7 @@
 				<coordinates>77.676551374,12.9253091851,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>75</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -578,7 +578,7 @@
 				<coordinates>77.6769837291,12.9229296741,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>73</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -586,7 +586,7 @@
 				<coordinates>77.6768184996,12.927151352,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>34</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -594,7 +594,7 @@
 				<coordinates>77.6780012328,12.9260378745,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>26</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -602,7 +602,7 @@
 				<coordinates>77.6787782672,12.9266677298,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>27</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -610,7 +610,7 @@
 				<coordinates>77.6785775635,12.9272202403,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>33</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -618,7 +618,7 @@
 				<coordinates>77.6779920379,12.92711082,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>32</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -626,7 +626,7 @@
 				<coordinates>77.6773636523,12.9283028011,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>30</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -634,7 +634,7 @@
 				<coordinates>77.67848790310001,12.9296496998,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>14</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -642,7 +642,7 @@
 				<coordinates>77.67972219089999,12.9296806651,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>15</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -650,7 +650,7 @@
 				<coordinates>77.6793779961,12.9291413584,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>12</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -658,7 +658,7 @@
 				<coordinates>77.6798315185,12.9309217412,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>13</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -666,7 +666,7 @@
 				<coordinates>77.6790954736,12.930513608,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>78</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -674,7 +674,7 @@
 				<coordinates>77.67538115000001,12.925288922,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>84</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -682,7 +682,7 @@
 				<coordinates>77.6694142142,12.9266052023,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>83</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -690,7 +690,7 @@
 				<coordinates>77.66941336630001,12.9241429202,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>81</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -698,7 +698,7 @@
 				<coordinates>77.67029043140001,12.9245668198,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>79</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -706,7 +706,7 @@
 				<coordinates>77.6730041294,12.9245717075,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>77</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -714,7 +714,7 @@
 				<coordinates>77.67425431309999,12.9240976451,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>98</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -722,7 +722,7 @@
 				<coordinates>77.6693647795,12.9289208979,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>87</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -730,7 +730,7 @@
 				<coordinates>77.67287975080001,12.9278755467,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>88</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -738,7 +738,7 @@
 				<coordinates>77.6736058692,12.926670306,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>89</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -746,7 +746,7 @@
 				<coordinates>77.6752459575,12.9268646552,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>92</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -754,7 +754,7 @@
 				<coordinates>77.6763822902,12.928245121,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>93</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -762,7 +762,7 @@
 				<coordinates>77.6755005465,12.928548701,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>90</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -770,7 +770,7 @@
 				<coordinates>77.6753735978,12.9277554952,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>85</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -778,7 +778,7 @@
 				<coordinates>77.67146871030001,12.9253301936,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>96</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -786,7 +786,7 @@
 				<coordinates>77.67087584220001,12.9281357096,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>86</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -794,7 +794,7 @@
 				<coordinates>77.6711908395,12.9267466426,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>102</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -802,7 +802,7 @@
 				<coordinates>77.67453355249999,12.9307912428,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>101</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -810,7 +810,7 @@
 				<coordinates>77.6714249926,12.9301576627,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>100</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -818,7 +818,7 @@
 				<coordinates>77.66883989670001,12.9299440213,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>97</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -826,7 +826,7 @@
 				<coordinates>77.6707845963,12.9293251668,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>99</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -834,7 +834,7 @@
 				<coordinates>77.6683519926,12.9289544573,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>28</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -842,7 +842,7 @@
 				<coordinates>77.6786207302,12.927724047,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>29</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -850,7 +850,7 @@
 				<coordinates>77.67863897940001,12.9281235144,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>5</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -858,7 +858,7 @@
 				<coordinates>77.6778100774,12.9323453773,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>4</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -866,7 +866,7 @@
 				<coordinates>77.6773323928,12.9313910057,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>7</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -874,7 +874,7 @@
 				<coordinates>77.6784364848,12.9321022075,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>6</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -882,7 +882,7 @@
 				<coordinates>77.6782745468,12.9325884311,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>3</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -890,7 +890,7 @@
 				<coordinates>77.67674764589999,12.9307926673,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>95</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -898,7 +898,7 @@
 				<coordinates>77.6721043006,12.9291419785,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>1</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -906,7 +906,7 @@
 				<coordinates>77.67548142299999,12.9307039303,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>91</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -914,7 +914,7 @@
 				<coordinates>77.6764423143,12.9275305715,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>60</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -922,16 +922,15 @@
 				<coordinates>77.6806862063,12.9224707682,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>82</name>
-			<village>Bellanduru</village>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<Point>
 				<coordinates>77.6699624306,12.9228304333,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>69</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -939,7 +938,7 @@
 				<coordinates>77.67850611919999,12.9223926935,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<name>2</name>
 			<visibility>0</visibility>
 			<description><![CDATA[TEXT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
@@ -951,7 +950,7 @@
 	<Folder>
 		<name>Area Features</name>
 		<description>Area Features</description>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[CARTO_WELL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#area1</styleUrl>
 			<Polygon>
@@ -964,7 +963,7 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[CARTO_WELL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#area1</styleUrl>
 			<Polygon>
@@ -977,7 +976,7 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[CARTO_WELL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#area1</styleUrl>
 			<Polygon>
@@ -990,7 +989,7 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[CARTO_WELL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#area1</styleUrl>
 			<Polygon>
@@ -1003,7 +1002,7 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[CARTO_WELL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#area1</styleUrl>
 			<Polygon>
@@ -1016,7 +1015,7 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[CARTO_WELL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#area1</styleUrl>
 			<Polygon>
@@ -1029,7 +1028,7 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[CARTO_WELL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#area1</styleUrl>
 			<Polygon>
@@ -1042,7 +1041,7 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[CARTO_WELL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#area1</styleUrl>
 			<Polygon>
@@ -1055,7 +1054,7 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[CARTO_WELL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#area1</styleUrl>
 			<Polygon>
@@ -1068,7 +1067,7 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[CARTO_WELL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#area1</styleUrl>
 			<Polygon>
@@ -1081,7 +1080,7 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[CARTO_WELL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#area1</styleUrl>
 			<Polygon>
@@ -1098,7 +1097,7 @@
 	<Folder>
 		<name>Line Features</name>
 		<description>Line Features</description>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[TOPO<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line1</styleUrl>
 			<LineString>
@@ -1107,7 +1106,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[TOPO<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line1</styleUrl>
 			<LineString>
@@ -1116,7 +1115,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[TOPO<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line1</styleUrl>
 			<LineString>
@@ -1125,7 +1124,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[TOPO<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line1</styleUrl>
 			<LineString>
@@ -1134,7 +1133,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[TOPO<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line1</styleUrl>
 			<LineString>
@@ -1143,7 +1142,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[TOPO<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line1</styleUrl>
 			<LineString>
@@ -1152,7 +1151,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_TANK<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line2</styleUrl>
 			<LineString>
@@ -1161,7 +1160,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_TANK<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line2</styleUrl>
 			<LineString>
@@ -1170,7 +1169,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_TANK<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line2</styleUrl>
 			<LineString>
@@ -1179,7 +1178,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_TANK<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line2</styleUrl>
 			<LineString>
@@ -1188,7 +1187,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1197,7 +1196,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1206,7 +1205,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1215,7 +1214,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1224,7 +1223,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1233,7 +1232,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1242,7 +1241,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1251,7 +1250,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1260,7 +1259,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1269,7 +1268,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1278,7 +1277,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1287,7 +1286,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1296,7 +1295,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1305,7 +1304,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1314,7 +1313,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1323,7 +1322,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1332,7 +1331,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1341,7 +1340,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1350,7 +1349,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1359,7 +1358,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1368,7 +1367,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1377,7 +1376,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1386,7 +1385,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1395,7 +1394,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1404,7 +1403,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1413,7 +1412,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1422,7 +1421,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1431,7 +1430,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1440,7 +1439,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1449,7 +1448,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1458,7 +1457,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1467,7 +1466,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_WATER<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line3</styleUrl>
 			<LineString>
@@ -1476,7 +1475,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1485,7 +1484,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1494,7 +1493,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1503,7 +1502,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1512,7 +1511,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1521,7 +1520,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1530,7 +1529,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1539,7 +1538,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1548,7 +1547,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1557,7 +1556,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1566,7 +1565,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1575,7 +1574,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1584,7 +1583,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1593,7 +1592,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_ROAD<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line4</styleUrl>
 			<LineString>
@@ -1602,7 +1601,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1611,7 +1610,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1620,7 +1619,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1629,7 +1628,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1638,7 +1637,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1647,7 +1646,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1656,7 +1655,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1665,7 +1664,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1674,7 +1673,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1683,7 +1682,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1692,7 +1691,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1701,7 +1700,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1710,7 +1709,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1719,7 +1718,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1728,7 +1727,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1737,7 +1736,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1746,7 +1745,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1755,7 +1754,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_SETTLEMENT<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line5</styleUrl>
 			<LineString>
@@ -1764,7 +1763,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1773,7 +1772,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1782,7 +1781,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1791,7 +1790,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1800,7 +1799,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1809,7 +1808,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1818,7 +1817,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1827,7 +1826,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1836,7 +1835,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1845,7 +1844,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1854,7 +1853,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1863,7 +1862,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1872,7 +1871,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1881,7 +1880,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1890,7 +1889,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1899,7 +1898,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1908,7 +1907,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1917,7 +1916,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1926,7 +1925,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1935,7 +1934,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1944,7 +1943,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1953,7 +1952,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1962,7 +1961,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1971,7 +1970,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1980,7 +1979,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1989,7 +1988,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -1998,7 +1997,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2007,7 +2006,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2016,7 +2015,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2025,7 +2024,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2034,7 +2033,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2043,7 +2042,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2052,7 +2051,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2061,7 +2060,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2070,7 +2069,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2079,7 +2078,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2088,7 +2087,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2097,7 +2096,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2106,7 +2105,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2115,7 +2114,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2124,7 +2123,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2133,7 +2132,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2142,7 +2141,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2151,7 +2150,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2160,7 +2159,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2169,7 +2168,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2178,7 +2177,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2187,7 +2186,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2196,7 +2195,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2205,7 +2204,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2214,7 +2213,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2223,7 +2222,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2232,7 +2231,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2241,7 +2240,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2250,7 +2249,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2259,7 +2258,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2268,7 +2267,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2277,7 +2276,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2286,7 +2285,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2295,7 +2294,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2304,7 +2303,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2313,7 +2312,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2322,7 +2321,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2331,7 +2330,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2340,7 +2339,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_V_BOUND<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line6</styleUrl>
 			<LineString>
@@ -2349,7 +2348,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_FOOTPATH<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line7</styleUrl>
 			<LineString>
@@ -2358,7 +2357,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_FOOTPATH<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line7</styleUrl>
 			<LineString>
@@ -2367,7 +2366,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_FOOTPATH<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line7</styleUrl>
 			<LineString>
@@ -2376,7 +2375,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_FOOTPATH<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line7</styleUrl>
 			<LineString>
@@ -2385,7 +2384,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_FOOTPATH<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line7</styleUrl>
 			<LineString>
@@ -2394,7 +2393,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[LINE_FOOTPATH<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line7</styleUrl>
 			<LineString>
@@ -2403,7 +2402,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2412,7 +2411,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2421,7 +2420,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2430,7 +2429,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2439,7 +2438,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2448,7 +2447,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2457,7 +2456,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2466,7 +2465,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2475,7 +2474,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2484,7 +2483,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2493,7 +2492,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2502,7 +2501,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2511,7 +2510,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2520,7 +2519,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2529,7 +2528,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2538,7 +2537,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2547,7 +2546,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2556,7 +2555,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2565,7 +2564,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2574,7 +2573,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2583,7 +2582,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2592,7 +2591,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2601,7 +2600,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2610,7 +2609,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2619,7 +2618,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2628,7 +2627,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2637,7 +2636,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2646,7 +2645,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2655,7 +2654,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2664,7 +2663,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2673,7 +2672,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2682,7 +2681,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2691,7 +2690,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2700,7 +2699,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2709,7 +2708,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2718,7 +2717,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2727,7 +2726,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2736,7 +2735,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2745,7 +2744,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2754,7 +2753,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2763,7 +2762,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2772,7 +2771,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2781,7 +2780,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2790,7 +2789,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2799,7 +2798,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2808,7 +2807,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2817,7 +2816,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2826,7 +2825,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2835,7 +2834,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2844,7 +2843,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2853,7 +2852,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2862,7 +2861,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2871,7 +2870,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2880,7 +2879,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2889,7 +2888,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2898,7 +2897,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2907,7 +2906,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2916,7 +2915,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2925,7 +2924,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2934,7 +2933,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2943,7 +2942,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2952,7 +2951,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2961,7 +2960,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2970,7 +2969,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2979,7 +2978,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2988,7 +2987,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -2997,7 +2996,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3006,7 +3005,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3015,7 +3014,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3024,7 +3023,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3033,7 +3032,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3042,7 +3041,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3051,7 +3050,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3060,7 +3059,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3069,7 +3068,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3078,7 +3077,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3087,7 +3086,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3096,7 +3095,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3105,7 +3104,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3114,7 +3113,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3123,7 +3122,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3132,7 +3131,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3141,7 +3140,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3150,7 +3149,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3159,7 +3158,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3168,7 +3167,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3177,7 +3176,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3186,7 +3185,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3195,7 +3194,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3204,7 +3203,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3213,7 +3212,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3222,7 +3221,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3231,7 +3230,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3240,7 +3239,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3249,7 +3248,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3258,7 +3257,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3267,7 +3266,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3276,7 +3275,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3285,7 +3284,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3294,7 +3293,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3303,7 +3302,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3312,7 +3311,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3321,7 +3320,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3330,7 +3329,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3339,7 +3338,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3348,7 +3347,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3357,7 +3356,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3366,7 +3365,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3375,7 +3374,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3384,7 +3383,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3393,7 +3392,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3402,7 +3401,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3411,7 +3410,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3420,7 +3419,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3429,7 +3428,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3438,7 +3437,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3447,7 +3446,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3456,7 +3455,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3465,7 +3464,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3474,7 +3473,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3483,7 +3482,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3492,7 +3491,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3501,7 +3500,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3510,7 +3509,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3519,7 +3518,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3528,7 +3527,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3537,7 +3536,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3546,7 +3545,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3555,7 +3554,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3564,7 +3563,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3573,7 +3572,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3582,7 +3581,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3591,7 +3590,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3600,7 +3599,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3609,7 +3608,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3618,7 +3617,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3627,7 +3626,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3636,7 +3635,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3645,7 +3644,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3654,7 +3653,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3663,7 +3662,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3672,7 +3671,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3681,7 +3680,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3690,7 +3689,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3699,7 +3698,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3708,7 +3707,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3717,7 +3716,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3726,7 +3725,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3735,7 +3734,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3744,7 +3743,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3753,7 +3752,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3762,7 +3761,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3771,7 +3770,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3780,7 +3779,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3789,7 +3788,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3798,7 +3797,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3807,7 +3806,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3816,7 +3815,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3825,7 +3824,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3834,7 +3833,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3843,7 +3842,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3852,7 +3851,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3861,7 +3860,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3870,7 +3869,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3879,7 +3878,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3888,7 +3887,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3897,7 +3896,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3906,7 +3905,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3915,7 +3914,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3924,7 +3923,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3933,7 +3932,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3942,7 +3941,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3951,7 +3950,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3960,7 +3959,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3969,7 +3968,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3978,7 +3977,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3987,7 +3986,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -3996,7 +3995,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4005,7 +4004,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4014,7 +4013,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4023,7 +4022,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4032,7 +4031,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4041,7 +4040,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4050,7 +4049,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4059,7 +4058,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4068,7 +4067,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4077,7 +4076,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4086,7 +4085,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4095,7 +4094,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4104,7 +4103,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4113,7 +4112,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4122,7 +4121,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4131,7 +4130,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4140,7 +4139,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4149,7 +4148,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4158,7 +4157,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4167,7 +4166,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4176,7 +4175,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4185,7 +4184,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4194,7 +4193,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4203,7 +4202,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4212,7 +4211,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4221,7 +4220,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4230,7 +4229,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4239,7 +4238,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4248,7 +4247,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4257,7 +4256,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4266,7 +4265,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4275,7 +4274,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4284,7 +4283,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4293,7 +4292,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4302,7 +4301,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4311,7 +4310,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4320,7 +4319,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4329,7 +4328,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4338,7 +4337,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4347,7 +4346,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4356,7 +4355,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4365,7 +4364,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4374,7 +4373,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4383,7 +4382,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4392,7 +4391,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4401,7 +4400,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4410,7 +4409,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4419,7 +4418,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4428,7 +4427,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4437,7 +4436,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4446,7 +4445,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4455,7 +4454,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4464,7 +4463,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4473,7 +4472,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4482,7 +4481,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4491,7 +4490,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4500,7 +4499,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4509,7 +4508,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4518,7 +4517,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4527,7 +4526,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4536,7 +4535,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4545,7 +4544,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4554,7 +4553,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4563,7 +4562,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4572,7 +4571,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4581,7 +4580,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4590,7 +4589,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4599,7 +4598,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4608,7 +4607,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4617,7 +4616,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4626,7 +4625,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4635,7 +4634,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4644,7 +4643,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4653,7 +4652,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
@@ -4662,7 +4661,7 @@
 				</coordinates>
 			</LineString>
 		</Placemark>
-		<Placemark>
+		<Placemark><name>sampleVillage</name>
 			<description><![CDATA[POLY_PARCEL<BR><BR><B>ELEVATION</B> = 0.0]]></description>
 			<styleUrl>#line8</styleUrl>
 			<LineString>
